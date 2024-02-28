@@ -1,3 +1,5 @@
+Try "mpu_Experimental/test_mpu9250.c"
+
 
 This repository contains C code to interface with the MPU9250 sensor using a TMC4XL1294 development board. The code reads accelerometer and gyroscope data from the MPU9250 sensor via I2C communication and calculates the angle based on the gyroscope data.
 
